@@ -1,4 +1,4 @@
-﻿;gender;height;weight;scholarship;pre-requisite 1;pre-requisite 2;presence;average study time;mid exam score;is_pass
+﻿no;gender;height;weight;scholarship;pre-requisite 1;pre-requisite 2;presence;average study time;mid exam score;is_pass
 0;M;174;62;No;A;BC;100;5;85;1
 1;F;161;63;No;C;B;100;1;9;0
 2;F;167;72;No;B;B;100;5;75;1
